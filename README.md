@@ -6,7 +6,7 @@ Complete analysis of the datasets provided by the company, derive insights and a
 
 Case Study 1 (Job Data)
 
-Table-1: job_data
+Table-1: job_data ( link - https://drive.google.com/file/d/16sC4TLLn5gOm6OjWjdBDXaDxVQ78z_F1/view?usp=sharing )
 
 Answered the Following questions:
 1. Number of jobs reviewed: Amount of jobs reviewed over time.
@@ -22,11 +22,11 @@ Answered the Following questions:
 
 Case Study 2 (Investigating metric spike)
 
-Table-1: users
+Table-1: users  ( link - https://drive.google.com/file/d/1yuRz0_MK6Que8F5jV-2ZhZCIgcAprf8u/view?usp=sharing)                                                                 
 
-Table-2: events
+Table-2: events ( link- https://drive.google.com/file/d/1zXPDv6xDVVNKLvjR0IidHMfkKFObe-Uz/view?usp=sharing)                                                                 
 
-Table-3: email_events
+Table-3: email_events ( link- https://drive.google.com/file/d/1T3aNHCXFW5LyS6Cg-Ehq6cHXzByWIaPa/view?usp=sharing)                                                            
 
 Answered the Following questions:
 1. User Engagement: To measure the activeness of a user. Measuring if the user finds quality in a product/service.
